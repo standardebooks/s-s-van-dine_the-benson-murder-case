@@ -30,51 +30,46 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Benson Murder Case</dc:title>
 		<meta property="file-as" refines="#title">Benson Murder Case, The</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Private investigators--New York (State)--New York--Fiction</dc:subject>
+		<dc:subject id="subject-2">Vance, Philo (Fictitious character)--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
+		<meta property="term" refines="#subject-1">sh2008109302</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-2">sh2010117678</meta>
+		<meta property="se:subject">Mystery</meta>
+		<dc:description id="description">A Manhattanite art connoisseur becomes an amateur detective as he assists his friend, the District Attorney, solve an unusual murder case.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Philo Vance is a snobbish art collector who happens to be the longtime friend of the New York County District Attorney. When a wealthy Wall Street broker is found shot in his own home, Vance finds himself drawn into the case, demonstrating an approach to solving the mystery wholly at odds with those of the police.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/s-s-van-dine"&gt;S. S. Van Dine&lt;/a&gt; was the pseudonym of Willard Huntington Wright, an art critic who became interested in murder mysteries after reading dozens of murder mysteries during an extended convalescence. &lt;i&gt;The Benson Murder Case&lt;/i&gt; introduced his character Philo Vance, a wealthy dilettante who brings the eye of an art connoisseur to his newfound calling of amateur detective.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/70634</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://catalog.hathitrust.org/Record/004679368</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Benson_Murder_Case</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/s-s-van-dine_the-benson-murder-case</meta>
 		<dc:creator id="author">S. S. Van Dine</dc:creator>
 		<meta property="file-as" refines="#author">Van Dine, S. S.</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/S._S._Van_Dine</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79117174</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">win</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
+		<meta property="se:role" refines="#author" scheme="marc:relators">win</meta>
+		<meta property="se:role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="se:role" refines="#author" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Brian Raiter</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Raiter, Brian</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">wat</meta>
 	</metadata>
