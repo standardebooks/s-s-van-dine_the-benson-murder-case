@@ -13,6 +13,14 @@
 	text-indent: 0;
 }
 
+/* précis */
+#chapter-22 blockquote .head {
+  font-variant: small-caps;
+  margin: 0.5em 0;
+  text-align: center;
+  text-indent: 0;
+}
+
 /* verse */
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
