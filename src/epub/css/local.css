@@ -1,6 +1,26 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+figure{
+	break-inside: avoid;
+}
+
+figure img{
+	display: block;
+	margin: auto;
+	max-width: 100%;
+}
+
+figcaption{
+	font-size: .75em;
+	font-style: italic;
+	margin: 1em;
+}
+
+q{
+	font-style: italic;
+}
+
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 	margin-right: 1em;
@@ -44,8 +64,4 @@
 p span.i1{
 	padding-left: 2em;
 	text-indent: -1em;
-}
-
-q{
-	font-style: italic;
 }
