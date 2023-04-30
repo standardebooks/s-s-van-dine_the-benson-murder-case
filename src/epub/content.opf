@@ -36,11 +36,15 @@
 		<meta property="term" refines="#subject-1">sh2008109302</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2010117678</meta>
+		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
-		<dc:description id="description">A Manhattanite art connoisseur becomes an amateur detective as he assists his friend, the District Attorney, solve an unusual murder case.</dc:description>
+		<meta id="collection-1" property="belongs-to-collection">Philo Vance</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">1</meta>
+		<dc:description id="description">A Manhattanite art connoisseur becomes an amateur detective as he assists his good friend, the District Attorney, in solving an unusual murder case.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Philo Vance is a snobbish art collector who happens to be the longtime friend of the New York County District Attorney. When a wealthy Wall Street broker is found shot in his own home, Vance finds himself drawn into the case, demonstrating an approach to solving the mystery wholly at odds with those of the police.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/s-s-van-dine"&gt;S. S. Van Dine&lt;/a&gt; was the pseudonym of Willard Huntington Wright, an art critic who became interested in murder mysteries after reading dozens of murder mysteries during an extended convalescence. &lt;i&gt;The Benson Murder Case&lt;/i&gt; introduced his character Philo Vance, a wealthy dilettante who brings the eye of an art connoisseur to his newfound calling of amateur detective.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/collections/philo-vance"&gt;Philo Vance&lt;/a&gt; is a snobbish art collector who happens to be the longtime friend of John Markham, the New York County District Attorney. When a wealthy Wall Street broker is found shot in his own home, Vance finds himself drawn into the case. Seeing both Markham and the police content to accept the superficial evidence of the crime scene, Vance must intervene, and elucidate an entirely different approach to solving the mystery.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/s-s-van-dine"&gt;S. S. Van Dine&lt;/a&gt; was the pseudonym of Willard Huntington Wright, an art critic who became interested in murder mystery stories after reading dozens of them during an extended convalescence. &lt;i&gt;The Benson Murder Case&lt;/i&gt; introduced his character Philo Vance, a wealthy dilettante who brings the eye of an art connoisseur to his newfound calling of amateur detective.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/70634</dc:source>
