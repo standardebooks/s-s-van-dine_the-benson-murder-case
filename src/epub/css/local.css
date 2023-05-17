@@ -21,6 +21,10 @@ q{
 	font-style: italic;
 }
 
+dt{
+	font-variant: small-caps;
+}
+
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 	margin-right: 1em;
