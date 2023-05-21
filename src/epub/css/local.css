@@ -37,6 +37,11 @@ dt{
 	text-indent: 0;
 }
 
+/* epigraph */
+section[epub|type~="epigraph"]{
+	margin-top: 8em;
+}
+
 /* précis */
 #chapter-22 blockquote .head{
 	font-variant: small-caps;
@@ -46,11 +51,13 @@ dt{
 }
 
 /* verse */
+[epub|type~="z3998:song"] p,
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
 	text-indent: 0;
 }
 
+[epub|type~="z3998:song"] p > span,
 [epub|type~="z3998:verse"] p > span{
 	display: block;
 	padding-left: 1em;
@@ -59,10 +66,6 @@ dt{
 
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
-}
-
-[epub|type~="z3998:song"] p{
-	text-align: initial;
 }
 
 p span.i1{
