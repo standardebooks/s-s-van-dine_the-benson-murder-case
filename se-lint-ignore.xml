@@ -6,10 +6,4 @@
 			<reason>The novel invariably italicizes French borrowings, both in dialogue and in narrative. It would be oddly inconsient to remove italics from "contretemps" and nowhere else.</reason>
 		</ignore>
 	</file>
-	<file path="chapter-23.xhtml">
-		<ignore>
-			<code>t-053</code>
-			<reason>This is not an actual dramatic script; we're just borrowing the semantic markup.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
