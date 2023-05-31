@@ -25,9 +25,11 @@ dt{
 	font-variant: small-caps;
 }
 
-[epub|type~="z3998:signature"]{
+/* introduction */
+footer{
 	font-variant: small-caps;
 	margin-right: 1em;
+	margin-top: 1em;
 	text-align: right;
 }
 
