@@ -25,33 +25,6 @@ dt{
 	font-variant: small-caps;
 }
 
-/* introduction */
-footer{
-	font-variant: small-caps;
-	margin-right: 1em;
-	margin-top: 1em;
-	text-align: right;
-}
-
-[epub|type~="bridgehead"]{
-	font-style: italic;
-	text-align: center;
-	text-indent: 0;
-}
-
-/* epigraph */
-section[epub|type~="epigraph"]{
-	margin-top: 8em;
-}
-
-/* précis */
-#chapter-22 blockquote .head{
-	font-variant: small-caps;
-	margin: 0.5em 0;
-	text-align: center;
-	text-indent: 0;
-}
-
 /* verse */
 [epub|type~="z3998:song"] p,
 [epub|type~="z3998:verse"] p{
@@ -73,4 +46,31 @@ section[epub|type~="epigraph"]{
 p span.i1{
 	padding-left: 2em;
 	text-indent: -1em;
+}
+
+[epub|type~="bridgehead"]{
+	font-style: italic;
+	text-align: center;
+	text-indent: 0;
+}
+
+/* epigraph */
+section[epub|type~="epigraph"]{
+	margin-top: 8em;
+}
+
+/* introduction */
+footer{
+	font-variant: small-caps;
+	margin-right: 1em;
+	margin-top: 1em;
+	text-align: right;
+}
+
+/* précis */
+#chapter-22 blockquote .head{
+	font-variant: small-caps;
+	margin: 0.5em 0;
+	text-align: center;
+	text-indent: 0;
 }
