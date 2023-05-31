@@ -49,6 +49,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/70634</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/004679368</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/102202626</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Benson_Murder_Case</meta>
