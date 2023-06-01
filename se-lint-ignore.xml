@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<se-lint-ignore>
-	<file path="chapter-16.xhtml">
-		<ignore>
-			<code>t-043</code>
-			<reason>The novel invariably italicizes French borrowings, both in dialogue and in narrative. It would be oddly inconsient to remove italics from "contretemps" and nowhere else.</reason>
-		</ignore>
-	</file>
-</se-lint-ignore>
