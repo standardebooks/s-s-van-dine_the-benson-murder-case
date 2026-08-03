@@ -53,7 +53,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/70634</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/004679368</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/102202626</dc:source>
-		<meta property="schema:wordCount">81392</meta>
+		<meta property="schema:wordCount">81391</meta>
 		<meta property="schema:educationalLevel">65.83</meta>
 		<link href="https://en.wikipedia.org/wiki/The_Benson_Murder_Case" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
